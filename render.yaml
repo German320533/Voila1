@@ -3,5 +3,5 @@ services:
     name: voila-analytics
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: voila Voila1.ipynb --no-browser --port=$PORT --ip=0.0.0.0
+    startCommand: voila Voila1.ipynb --no-browser --port=$PORT --Voila.ip=0.0.0.0
     plan: free
