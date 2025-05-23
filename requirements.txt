@@ -5,3 +5,4 @@ matplotlib
 sqlalchemy
 psycopg2-binary
 ipywidgets
+voila==0.5.2
