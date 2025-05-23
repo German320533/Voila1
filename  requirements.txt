@@ -1,0 +1,7 @@
+voila
+notebook
+pandas
+matplotlib
+sqlalchemy
+psycopg2-binary
+ipywidgets
